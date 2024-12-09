@@ -1,1 +1,5 @@
 nftset=/linuxquestions.org/4#inet#fw4#vpn_domains
+nftset=/polit.reactor.cc/4#inet#fw4#vpn_domains
+nftset=/sing-box.sagernet.org/4#inet#fw4#vpn_domains
+nftset=/bild.de/4#inet#fw4#vpn_domains
+nftset=/codebrowser.dev/4#inet#fw4#vpn_domains
