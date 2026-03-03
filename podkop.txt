@@ -9,7 +9,6 @@ developer.download.nvidia.com
 nvidia.com
 windscribe.com
 perplexity.ai
-copilot.microsoft.com
 ghcr.io
 paperswithcode.com
 maxar.com
