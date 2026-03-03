@@ -9,14 +9,12 @@ developer.download.nvidia.com
 nvidia.com
 windscribe.com
 perplexity.ai
-githubusercontent.com 
 copilot.microsoft.com
 proxy.business.githubcopilot.com
 githubcopilot.com
 ghcr.io
 paperswithcode.com
 maxar.com
-github.com
 llhost.eu
 pixabay.com
 mapbox.com
