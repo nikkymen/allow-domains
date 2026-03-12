@@ -35,3 +35,5 @@ pushbr.com
 zencdn.net
 cdn32.lol
 kino.pub
+githubcopilot.com
+api.github.com
