@@ -40,3 +40,4 @@ api.github.com
 GitHub.gallerycdn.vsassets.io
 marketplace.visualstudio.com
 ntc.party
+proj.org
