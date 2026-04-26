@@ -42,3 +42,4 @@ marketplace.visualstudio.com
 ntc.party
 proj.org
 download.qt.io
+unraid.net
