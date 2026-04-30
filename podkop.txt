@@ -43,3 +43,4 @@ ntc.party
 proj.org
 download.qt.io
 unraid.net
+cgpeers.to
