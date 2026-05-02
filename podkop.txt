@@ -44,3 +44,4 @@ proj.org
 download.qt.io
 unraid.net
 cgpeers.to
+qgis.org
