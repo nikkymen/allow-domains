@@ -10,6 +10,7 @@ nvidia.com
 windscribe.com
 perplexity.ai
 ghcr.io
+nvcr.io
 paperswithcode.com
 maxar.com
 llhost.eu
