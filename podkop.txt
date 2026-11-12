@@ -56,3 +56,4 @@ ppa.launchpad.net
 investing.com
 redshieldvpn.org
 t3.codes
+photon.komoot.io
